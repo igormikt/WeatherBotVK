@@ -41,6 +41,8 @@ WeatherBotVK/
     ├── keyboard.py
     ├── handlers.py
     └── main.py
+<img width="1362" height="911" alt="image" src="https://github.com/user-attachments/assets/af566e71-16cc-4331-9f0d-d577ddcad68e" />
+
 
 ## ⚙️ Установка и запуск
 

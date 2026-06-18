@@ -1,0 +1,25 @@
+# Секреты — НЕ публиковать!
+.env
+*.env.local
+
+# Виртуальное окружение
+venv/
+env/
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE
+.vscode/
+.idea/
+
+# Логи
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
